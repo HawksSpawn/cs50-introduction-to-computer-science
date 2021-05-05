@@ -90,7 +90,7 @@ ISBN 0-321-77641-0
 ## Problem Sets
 
 **Week 0**  
-&emsp;Scratch
+&emsp;[Scratch](https://github.com/HawksSpawn/cs50-introduction-to-computer-science/tree/main/pset0#project) - 100%
 
 **Week 1**  
 &emsp;Lab 1: Population Growth  
