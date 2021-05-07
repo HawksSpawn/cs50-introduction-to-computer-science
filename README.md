@@ -15,6 +15,7 @@
 [<img src="https://simpleicons.org/icons/github.svg" alt="GitHub icon" width="16" height="16">](https://github.com/dmalan)
 [<img src="https://simpleicons.org/icons/instagram.svg" alt="Instagram icon" width="16" height="16">](https://www.instagram.com/davidjmalan/)
 [<img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn icon" width="16" height="16">](https://www.linkedin.com/in/malan/)
+[<img src="https://simpleicons.org/icons/orcid.svg" alt="Orcid icon" width="16" height="16">](https://orcid.org/0000-0001-5338-2522)
 [<img src="https://simpleicons.org/icons/quora.svg" alt="Quora icon" width="16" height="16">](https://www.quora.com/profile/David-J-Malan)
 [<img src="https://simpleicons.org/icons/reddit.svg" alt="Reddit icon" width="16" height="16">](https://www.reddit.com/user/davidjmalan)
 [<img src="https://simpleicons.org/icons/twitter.svg" alt="Twitter icon" width="16" height="16">](https://twitter.com/davidjmalan)
