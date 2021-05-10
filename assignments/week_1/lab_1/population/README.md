@@ -44,27 +44,26 @@ Complete the implementation of `population.c`, such that it calculates the numbe
 - If you want to repeatedly re-prompt the user for the value of a variable until some condition is met, you might want to use a `do ... while` loop. For example, recall the 
   following code from lecture, which prompts the user repeatedly until they enter a positive integer.
 
-```c
-  int n;
-  do
-  {
-      n = get_int("Positive Integer: ");
-  }
-  while (n < 1);
-```
-
-&emsp;&emsp;How might you adapt this code to ensure a start size of at least 9, and an end size of at least the start size?
+    ```c
+    int n;
+    do
+    {
+        n = get_int("Positive Integer: ");
+    }
+    while (n < 1);
+    ```
+    How might you adapt this code to ensure a start size of at least 9, and an end size     of at least the start size?
 - To declare a new variable, be sure to specify its data type, a name for the variable, and (optionally) what its initial value should be.
     - For example, you might want to create a variable to keep track of how many years have passed.
 - To calculate how many years it will take for the population to reach the end size, another loop might be helpful! Inside the loop, you’ll likely want to update the population 
   size according to the formula in the Background, and update the number of years that have passed.
 - To print an integer `n` to the terminal, recall that you can use a line of code like
 
-```c
+  ```c
   printf("The number is %i\n", n);
-```
+  ```
 
-&emsp;&emsp;to specify that the variable `n` should fill in for the placeholder `%i`.
+  to specify that the variable `n` should fill in for the placeholder `%i`.
 
 ### How to Test Your Code
 
