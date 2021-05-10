@@ -98,9 +98,11 @@ one or more functions, conditions, Boolean expressions, loops, and/or variables.
 
 <details>
   <summary>Spoiler</summary>
-  <br>
-  There’s more than one way to do this, so here’s just one!
 
+  <br>
+  
+  There’s more than one way to do this, so here’s just one!
+  
   1. Prompt user for height
   2. If height is less than 1 or greater than 8 (or not an integer at all), go back one step
   3. Iterate from 1 through height:
@@ -131,7 +133,9 @@ Stored: 4
 
 <details>
   <summary>Hints</summary>
+
   <br>
+  
   - Recall that you can compile your program with `make`.
   - Recall that you can print an `int` with `printf` using `%i`.
   - Recall that you can get an integer from the user with `get_int`.
@@ -203,7 +207,9 @@ Modify `mario.c` in such a way that it does exactly that!
 
 <details>
   <summary>Hint</summary>
+
   <br>
+  
   Notice how the number of dots needed on each line is the “opposite” of the number of that line’s hashes. For a pyramid of height 8, like the above, the first line has but 1 
   hash and thus 7 dots. The bottom line, meanwhile, has 8 hashes and thus 0 dots. Via what formula (or arithmetic, really) could you print that many dots?
 
@@ -236,7 +242,9 @@ Execute the below to evaluate the style of your code using `style50`.
 
 <details>
   <summary>Hint</summary>
+  
   <br>
+  
   A space is just a press of your space bar, just as a period is just a press of its key! Just remember that `printf` requires that you surround both with double quotes!
 
 </details>
