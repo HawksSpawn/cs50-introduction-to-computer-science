@@ -91,13 +91,13 @@ ISBN 0-321-77641-0
 ## Problem Sets
 
 **Week 0**  
-&emsp;[Scratch](https://github.com/HawksSpawn/cs50-introduction-to-computer-science/tree/main/pset0#project) - 100%
+&emsp;[Scratch](https://github.com/HawksSpawn/cs50-introduction-to-computer-science/tree/main/assignments/week_0/pset0#project) - 100%
 
 **Week 1**  
-&emsp;Lab 1: Population Growth  
-&emsp;Hello  
-&emsp;Mario (Less)  
-&emsp;Mario (More)  
+&emsp;[Lab 1: Population Growth](assignments/week_1/lab_1/population/population.c) - 100%  
+&emsp;[Hello](assignments/week_1/lab_1/hello/hello.c) - 100%  
+&emsp;[Mario (Less)](assignments/week_1/pset1/mario/less/mario.c) - 100%  
+&emsp;[Mario (More)](assignments/week_1/pset1/mario/more/mario.c) - 100%  
 &emsp;Cash  
 &emsp;Credit
 
