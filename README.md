@@ -98,8 +98,8 @@ ISBN 0-321-77641-0
 &emsp;[Hello](assignments/week_1/lab_1/hello/hello.c) - 100%  
 &emsp;[Mario (Less)](assignments/week_1/pset1/mario/less/mario.c) - 100%  
 &emsp;[Mario (More)](assignments/week_1/pset1/mario/more/mario.c) - 100%  
-&emsp;Cash  
-&emsp;Credit
+&emsp;[Cash](assignments/week_1/pset1/cash/cash.c) - 100%  
+&emsp;[Credit](assignments/week_1/pset1/credit/credit.c) - 100%
 
 **Week 2**  
 &emsp;Lab 2: Scrabble  
